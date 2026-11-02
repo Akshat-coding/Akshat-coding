@@ -1,4 +1,4 @@
-## Hi there 👋
+## Akshat-coding
 
 <!--
 **Akshat-coding/Akshat-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
